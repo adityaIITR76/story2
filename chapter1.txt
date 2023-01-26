@@ -1,1 +1,13 @@
 this si chapter 1 
+some basic command line for git using terminal 
+1. initialise git in the working directory using , git init
+2.git status is used to show the change in ststus of the git 
+3.git add file_name is used to add the file to the git repository  this will add the current file to git ti commiit any changes 
+
+4. git commit -m" message to be typed when the files are commited"
+
+git log is used to log out the commit messages send 
+
+when we do commit then the file is saved with the changes made to it in last
+
+then git checkout file_name.filetype is used to get the last saved changes to file and made those changes into our computer
